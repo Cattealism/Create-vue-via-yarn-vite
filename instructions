@@ -1,0 +1,5 @@
+//xxxx is the name of your vue peoject//
+yarn create vite xxxx --template vue
+cd xxxx
+yarn 
+yarn dev
